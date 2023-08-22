@@ -1,7 +1,7 @@
 # About Me
 Hi there, my name is Parm and I'm a computer science student with a background in biology. I'm currently enrolled in the BCS second-degree program at the University of British Columbia, and I'm very passionate about web development and low level programming.
 
-Currently, I'm working as a software developer intern at Copperleaf Technologies, where I'm gaining valuable hands-on experience in developing solutions that make a difference. My previous degree in biology has helped me develop critical thinking skills and problem-solving strategies that translate directly over to my work as a developer.
+Recently, I worked as a software developer intern at Copperleaf Technologies, where I gained valuable hands-on experience in developing solutions that make a difference. My previous degree in biology has helped me develop critical thinking skills and problem-solving strategies that translate directly over to my work as a developer.
 
 I'm always looking to expand my knowledge and skills, and I'm currently focusing on learning Typescript and C#. If you're interested in connecting with me, discussing industry trends, or collaborating on projects, I'd be more than happy to chat. Feel free to reach out to me on <a href="https://www.linkedin.com/in/parmvir-shergill-84208538/">LinkedIn</a>
 
